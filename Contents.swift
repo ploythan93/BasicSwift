@@ -23,6 +23,11 @@ var num: Double = 123.456
 var myStatus: Bool = true
 
 
+//การแสดงค่าบน control
+print("Normal String")
+print("Name = \(nameString) Surname = \(surname)")
+print("Integer = \(numberInt)")
+
 
 
 
