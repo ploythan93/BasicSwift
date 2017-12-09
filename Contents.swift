@@ -11,6 +11,13 @@ var statusBo = true //ประกาศแบบ boolean
 nameString = "ABCD" //ค่าจะเปลี่ยนได้
 numberInt = 321
 
+//การประกาศตัวแปรที่ไม่สามารถแก้ไขได้ หรือเรียกว่า ค่าคงที
+let conNameString = "Nobita"
+// conNameString = "doremon" จะทำแล้ว error เพราะค่าคงที่เปลี่ยนค่าไม่ได้
+// วิธีการแก้ คือ เปลี่ยน let เป็น var
+
+
+
 
 
 
