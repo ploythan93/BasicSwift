@@ -16,6 +16,21 @@ let conNameString = "Nobita"
 // conNameString = "doremon" จะทำแล้ว error เพราะค่าคงที่เปลี่ยนค่าไม่ได้
 // วิธีการแก้ คือ เปลี่ยน let เป็น var
 
+//การประกาศตัวแปรแบบกำหนด data type
+var surname: String = "Trakarn"
+var myNumber: Int = 321
+var num: Double = 123.456
+var myStatus: Bool = true
+
+
+
+
+
+
+
+
+
+
 
 
 
